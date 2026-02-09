@@ -47,7 +47,7 @@ kasper-template/
 ---
 
 ## 📸 Screenshots
-Screenshots for each section are available inside the `screenshots/` folder.
+Screenshots for each section are available inside the `screenshots/` folder
 
 ---
 
